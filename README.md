@@ -12,6 +12,3 @@ A trial project implementing Bloc based on MVVM architecture. The app provides l
 
 https://pokeapi.co/api/v2/pokemon/?offset=20&limit=20
 
-
-#### This app made by 
-Rizha Alfianita :D
