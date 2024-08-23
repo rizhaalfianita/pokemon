@@ -1,16 +1,15 @@
-# pokemon
+# Pokemon
 
-A new Flutter project.
+A trial project implementing Bloc based on MVVM architecture. The app provides list of pokemons with their detail informations, such as abilities, types, weight, and height.
 
-## Getting Started
+## Tech stack
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Bloc
+- MVVM architecture
 
-A few resources to get you started if this is your first Flutter project:
+## Pokemon API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://pokeapi.co/api/v2/pokemon/?offset=20&limit=20
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Made by Rizha Alfianita :D
